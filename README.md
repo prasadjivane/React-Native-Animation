@@ -8,5 +8,4 @@ Movie details including rating and description using react-native-animation.
 4) expo build:android or expo build:ios
 
 # Output 
-
-[React Native Animation](output.gif)
+(output.gif)
